@@ -1,7 +1,7 @@
 #define PIN_RELAY 3 // Определяем пин, используемый для подключения реле
-#define PIN_POT A6 // A0 определеяем пин для потенциометра 
+#define PIN_POT A6 // A6 определеяем пин для потенциометра 
 #define PIN_TEMP A1 // A1 определеяем пин для термистора 
-#define PIN_BUT 12 // 8 определеяем пин для кнопки
+#define PIN_BUT 12 // 12 определеяем пин для кнопки
 
 #define PIN_LED_1 4
 #define PIN_LED_2 7
